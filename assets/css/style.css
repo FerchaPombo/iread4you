@@ -1,19 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Rubik&display=swap');
 
-* {
-    margin:0;
-    padding: 0;
-    order: none;
+* {margin: 0;
+   padding: 0;
+   border: none;
 }
-    
- body {
-    font-family: 'Nunito', sans-serif;
+body {
+    font-family: 'Nunito', sans-serif; 
     font-weight: 300;
     color: #28282B;
-
 }
-/*headings and logo*/
-
+/* headings and logo */
 h1, h2 {
     font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
@@ -21,54 +17,88 @@ h1, h2 {
     color: #1B1212;
     font-weight: 400;
 }
-
 #logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
 }
-
 #menu {
     font-size: 110%;
     letter-spacing: 3px;
 }
-
 #menu, #logo {
     line-height: 75px;
 }
-
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 25px;
 }
-
 #menu a {
     text-decoration: none;
     color: inherit;
-}
 
+}
 #menu a:hover {
     border-bottom: 1px solid #1B1212;
 }
-
 .active {
     border-bottom: 1px solid #1B1212;
 }
-
 #hero-outer {
     opacity: 0.8;
 }
-#cover-text, #cover-tet h2 {
+#cover-text, #cover-text h2 {
     color: #28282B;
-}
 
+}
 #cover-text {
     font-size: 130%;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito', sans-serif; 
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
 
-    
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color:rgb(245,245,245, 0.7);
+
+}
+
+#club-ethos {
+    height: 600px;
+
+}
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float:left;
+
+}
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float:right;
+}
+#logo-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+hr {
+    border-top: 1px solid #28282B; 
+    width: 100%;
+    margin: 5px 0;
+}
+/* its not floating to the right */
+#left-about-heading {
+    width: 60%;
+    float:right; 
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
 }
