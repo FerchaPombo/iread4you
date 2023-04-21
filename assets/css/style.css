@@ -57,7 +57,7 @@ h1, h2 {
     height: 800px;
     width: 100%;
     background: url(../images/superimagen.jpeg) center center no-repeat;
-    
+
     animation-name: hero-zoom;
     animation-duration: 8s;
     animation-fill-mode: forwards;
@@ -164,4 +164,13 @@ footer{
     margin: 1%;
     padding: 5%;
     color:#1B1212;
+}
+/*photogallery*/
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    
+
 }
