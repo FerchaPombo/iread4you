@@ -232,6 +232,7 @@ footer{
     .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 0 20px;
-
-
- }
+    }
+    #photos {
+        column-count: 1;
+    }
