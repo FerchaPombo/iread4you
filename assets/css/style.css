@@ -56,10 +56,11 @@ h1, h2 {
 #hero-image {
     height: 800px;
     width: 100%;
-    background: url(../images/superimagen.jpeg) center center no-repeat;
+    background: url(../images/superimagen.jpg) center center no-repeat;
+    opacity: 0.8;
 
     animation-name: hero-zoom;
-    animation-duration: 8s;
+    animation-duration: 6s;
     animation-fill-mode: forwards;
 }
 /* create animation for superimage*/
@@ -147,6 +148,12 @@ hr {
     text-align: center;
     margin: 30px 0;
     font-size: 250%;
+}
+/*about section*/
+
+#about{
+    font-size: xx-large;
+    text-align: center;
 }
 /*footer element*/
 
@@ -240,10 +247,28 @@ footer{
 #title-header {
     text-align: center;
     margin-top: 100px;
+    font-size:xx-large
+
 
 }
 #form {
-    text-align: justify;
+    margin: auto;
+    padding: 10px;
+    background-color: #28282B;
+    text-align: center;
+    color: whitesmoke;
+    border-radius: 25px;
+    width: 80%;
+    height: 150px;
+    opacity: 0.8;
     font-size: medium;
 
+}
+#submit {
+     background-color: whitesmoke;
+     height: 40px;
+     width: 70px;
+     border-style: outset;
+     text-size-adjust: 100px;
+     font-size: medium;
 }
