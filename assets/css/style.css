@@ -237,3 +237,13 @@ footer{
         column-count: 1;
     }
 }
+#title-header {
+    text-align: center;
+    margin-top: 100px;
+
+}
+#form {
+    text-align: justify;
+    font-size: medium;
+
+}
