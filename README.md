@@ -1,35 +1,46 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Project Title
 
-Welcome,
+I Read 4 You
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Description
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+I Read 4 You, is a platform that aims to connect tattooers, artists, and designers with visually impaired people for bookings, consultations, and the final delivery of customized work with the help of inclusive coding for users with visual impairments. 
+In this first step, I read You, a newborn project that aims to give information about the current progress on the languages available, their origins, their backgrounds, and the important need for their existence and application in the current coding world, as well as in the creative field. 
 
-## Codeanywhere Reminders
+The long-term goal of I Read 4 You is to purposely implement the proper and complete semantic language that facilitates the "README" addons and technologies that are available, like Aria Label , so that visually impaired users have a more enjoyable and successful user experience.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Getting Started
 
-`python3 -m http.server`
+Dependencies
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+At this point in the project, its only needed to have a browser installed on any computer.At this point in the project, it is only needed to have a browser installed on any computer. Eventually, the aim is to have an app complementing the webpage in order to be able to scan images and files with a rich description of it. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Authors
+Done by Fercha Pombo 
+www.ferchapombo.com
+@ferchapombo
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+Acknowledgments
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+code sources:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+https://stackoverflow.com/
+https://www.yourhtmlsource.com
+https://www.javatpoint.com/html-form
+https://www.jotform.com/help/118-how-to-customize-the-submit-button-with-css/
+https://stackoverflow.com/questions/45854979/adding-margin-left-to-h1-and-h2-tags
+https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template
 
----
 
-Happy coding!
+things i read: 
+
+https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-students
+https://www.parhamdoustdar.com/2016/04/03/tools-of-blind-programmer/
+https://fuzzymath.com/blog/improve-accessibility-for-visually-impaired-users/
+
+image source:
+
+https://acrylgiessen.com/en/how-to-draw-ears/
+https://www.freepng.es/png-13zz7s/
