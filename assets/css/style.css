@@ -272,3 +272,20 @@ footer{
      text-size-adjust: 100px;
      font-size: medium;
 }
+/*headers del about */
+
+#why {
+    margin-left: 70px;
+}
+#paragraph-why {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#how {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+#paragraph-how {
+    margin-left: 50px;
+    margin-right: 50px:
+}
