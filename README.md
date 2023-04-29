@@ -100,9 +100,9 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 ## Deployment
 
 - This site was deployed using Github pages, the steps i followed are the following: 
-- 1. Inside my github repository, i navigated to Settings tab. 
-- 2. I went to the pages section, and changed the branch name from "none" to main" and saved the changes.
-- 3. Then github created my url repository succesfully,  and provided me the link to it. 
+1.  Inside my github repository, i navigated to Settings tab. 
+2. I went to the pages section, and changed the branch name from "none" to main" and saved the changes.
+3. Then github created my url repository succesfully,  and provided me the link to it. 
 
 
 The live link can be found here - https://ferchapombo.github.io/i-read.4you/
@@ -129,7 +129,7 @@ The live link can be found here - https://ferchapombo.github.io/i-read.4you/
 - Howto add images to my Read me was taken from [readme](https://www.javatpoint.com/images-in-markdown#:~:text=Images%20in%20Markdown%20can%20be,exclamatory%20symbol%20at%20the%20beginning.)
 - Help with background image was taken from [image](https://usersnap.com/blog/background-webdesign/)
 - Documentation I read about visually impaired accesibility was taken from [articles](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-students)
-- Documentation I read about visually impaired accesibility was taken from [rticle](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-student)
+- Documentation I read about visually impaired accesibility was taken from [article](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-student)
 
 
 
