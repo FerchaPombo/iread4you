@@ -59,7 +59,7 @@ here there are the links to the social media that eventually the project might h
   - it will develop in different sections in the future with categories of style, the format of the piece, the material used, etc... for easier navigation of visually impaired users. 
 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](/assets/images/galleryscreenshot.jpg)
 
 - __The Sign Up Page__
 

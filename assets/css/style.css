@@ -179,6 +179,8 @@ footer{
     clear: both;
     line-height: 0;
     column-count: 2;
+    margin-left: 25px;
+    margin right: 25px;
 }
 /* media querry*/
 
