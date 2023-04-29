@@ -245,15 +245,12 @@ footer{
     #photos {
         column-count: 1;
     }
-    #logo-about {
-        width: 50%;
-    }
 }
+
 #title-header {
     text-align: center;
     margin-top: 100px;
     font-size:xx-large
-
 
 }
 
