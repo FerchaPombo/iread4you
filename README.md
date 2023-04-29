@@ -44,14 +44,14 @@ here there are the links to the social media that eventually the project might h
 
   -In this section, there is a little bit more justification on why the project is important, it also aims to explain roughly how it will work, what technologies it will use, and how they will be implemented.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+  ![aboutandwhy](/assets/images/aboutandwhy.jpg)
 
-- __The Footer__ 
+ __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for I Read 4 You. These links are carefully organized and will open to a new tab, this allows the user not to lose the main page and get away from our main page. 
   - The footer is very important since it helps the user reach easily other platforms where information is uploaded and share constantly. 
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](/assets/images/footer.jpg)
 
 - __Gallery__
   - The gallery will feature available artwork from featured artists. Each piece of art will be linked and connected to each of the artists' homepages and information.
