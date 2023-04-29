@@ -99,35 +99,45 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+- This site was deployed using Github pages, the steps i followed are the following: 
+- 1. Inside my github repository, i navigated to Settings tab. 
+- 2. I went to the pages section, and changed the branch name from "none" to main" and saved the changes.
+- 3. Then github created my url repository succesfully,  and provided me the link to it. 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://ferchapombo.github.io/i-read.4you/
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+- Creator: Fercha pombo
+   -  @ferchapombo 
+   - ferchapomgo@gmail.com
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+   - Throughout the process of creating this website, I went through different websites and forums that helped me with the html syntax of my site as well as with the styling of the webpage. 
+   - I read through some information available regarding visually impaired coding and how to make better web pages for it. 
+
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- Overall help with coding was taken from [Code](https://stackoverflow.com/)
+- Overall help with coding was taken from [Code](https://www.yourhtmlsource.com)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Help customizing my submit button was taken from [submitbutton](https://www.jotform.com/help/118-how-to-customize-the-submit-button-with-css/)
+- Adjust margins was taken from [margins](https://stackoverflow.com/questions/45854979/adding-margin-left-to-h1-and-h2-tags)
+- Help with documenting my Readme [readme](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template)
+- Howto add images to my Read me was taken from [readme](https://www.javatpoint.com/images-in-markdown#:~:text=Images%20in%20Markdown%20can%20be,exclamatory%20symbol%20at%20the%20beginning.)
+- Help with background image was taken from [image](https://usersnap.com/blog/background-webdesign/)
+- Documentation I read about visually impaired accesibility was taken from [articles](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-students)
+- Documentation I read about visually impaired accesibility was taken from [rticle](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-student)
+
+
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+- The images used for the superhero image on the main page was taken from [image](https://acrylgiessen.com/en/how-to-draw-ears/)
+- The icon i used as logo until now was taken from [logo](https://www.flaticon.es/icono-gratis/forma-de-ojo-abierto-con-lineas-de-conexion-de-senal_37975)
+- All the images in the gallery belong to me, as well as the artwork shwon. 
 
 ## Other General Project Advice
 
