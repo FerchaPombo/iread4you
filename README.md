@@ -2,15 +2,20 @@
 
 I Read 4 You, is a platform that aims to connect tattooers, artists, and designers with visually impaired people for bookings, consultations, and the final delivery of customized work with the help of inclusive coding for users with visual impairments. 
 
- In this first step, I read You, a newborn project that aims to give information about the current progress on the languages available, their origins
- their backgrounds, and the important need for their existence and application in the current coding world, as well as in the creative field. 
- 
+The long-term goal of I Read 4 You is to purposely implement the proper and complete semantic language that facilitates the "README" addons and technologies that are available, like Aria Label , so that visually impaired users have a more enjoyable and successful user experience. 
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+### Header 
+ with the name of the project and a navigation bar towards the left side of the page. here there is a link to the 3 pages of the project. The Home, the Gallery, and the Signup.
+ ### "club Ethos" Section
+with the logo in the middle. We can find important information for the users, divided into two columns. To the left information is important for the artist, and to the right information is valuable to the client. 
+### About Section-
+here is a little description of what the project is about and why I find it important.
+# Footer
+here there are the links to the social media that eventually the project might have. ex. Facebook page or Instagram
 
 ### Existing Features
 
