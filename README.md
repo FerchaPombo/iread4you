@@ -14,7 +14,7 @@ The long-term goal of I Read 4 You is to purposely implement the proper and comp
 with the logo in the middle. We can find important information for the users, divided into two columns. To the left information is important for the artist, and to the right information is valuable to the client. 
 ### About Section-
 here is a little description of what the project is about and why I find it important.
-# Footer
+### Footer
 here there are the links to the social media that eventually the project might have. ex. Facebook page or Instagram
 
 ### Existing Features

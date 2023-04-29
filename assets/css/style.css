@@ -60,7 +60,7 @@ h1, h2 {
     opacity: 0.8;
 
     animation-name: hero-zoom;
-    animation-duration: 6s;
+    animation-duration: 4s;
     animation-fill-mode: forwards;
 }
 /* create animation for superimage*/
@@ -69,7 +69,7 @@ h1, h2 {
         transform: scale(1);
     }
     to{
-        transform: scale(1.6);
+        transform: scale(1.8);
    }
 
 }
@@ -252,6 +252,7 @@ footer{
 
 
 }
+
 #form {
     margin: auto;
     padding: 10px;
@@ -260,14 +261,14 @@ footer{
     color: whitesmoke;
     border-radius: 25px;
     width: 80%;
-    height: 150px;
-    opacity: 0.8;
+    height: 170px;
+    opacity: 0.7;
     font-size: medium;
 
 }
 #submit {
      background-color: whitesmoke;
-     height: 40px;
+     height: 30px;
      width: 70px;
      border-style: outset;
      text-size-adjust: 100px;
