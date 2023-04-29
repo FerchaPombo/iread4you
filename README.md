@@ -6,10 +6,10 @@ The long-term goal of I Read 4 You is to purposely implement the proper and comp
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
-## Features 
+## Existing Features 
 
 ### Header 
- with the name of the project and a navigation bar towards the left side of the page. here there is a link to the 3 pages of the project. The Home, the Gallery, and the Signup.
+ This conains the name of the project and a navigation bar towards the left side of the page. here there is a link to the 3 pages of the project. The Home, the Gallery, and the Signup.
  ### "club Ethos" Section
 with the logo in the middle. We can find important information for the users, divided into two columns. To the left information is important for the artist, and to the right information is valuable to the client. 
 ### About Section-
@@ -21,26 +21,26 @@ here there are the links to the social media that eventually the project might h
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The Navigation bar in this project, includes the title of the proyect and  the links to the 3 secctions of the page. A Home, a Gallery and a Sign Up. all  elements are styled in easy-to-read font and colors. 
+  - This section is identical in each of the sections, so the user feels comfortable. It will allow the user to navigate easily back and forth through the sections wothout having to press any <back> button. 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The landing page image__
+- __Main page  and first impression__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - When arriving at the main page, there is an image of a hand drawing an ear, it is the Super image of this project and gives an artistic idea of what the project is about.
+  - It includes a small text box with an encouraging phrase and hopefully catches the user's attention.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - __Club Ethos Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The goal of the Club Ethos section aims to emphasize the reason the project exists. it makes clear the benefits as artists, as well as a client on why you would benefit from using the platform. 
+  - This should encourage and convince artists as well as users of the benefits of using the platform. as well as inspire them to create and want to acquire art. 
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __About and Why__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
