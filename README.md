@@ -24,7 +24,7 @@ here there are the links to the social media that eventually the project might h
   - The Navigation bar in this project, includes the title of the proyect and  the links to the 3 secctions of the page. A Home, a Gallery and a Sign Up. all  elements are styled in easy-to-read font and colors. 
   - This section is identical in each of the sections, so the user feels comfortable. It will allow the user to navigate easily back and forth through the sections wothout having to press any <back> button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Javapoint](/assets/images/screenshotheader.jpg)  
 
 - __Main page  and first impression__
 
