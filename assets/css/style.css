@@ -245,6 +245,9 @@ footer{
     #photos {
         column-count: 1;
     }
+    #logo-about {
+        width: 50%;
+    }
 }
 #title-header {
     text-align: center;
