@@ -42,38 +42,37 @@ here there are the links to the social media that eventually the project might h
 
 - __About and Why__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  -In this section, there is a little bit more justification on why the project is important, it also aims to explain roughly how it will work, what technologies it will use, and how they will be implemented.
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for I Read 4 You. These links are carefully organized and will open to a new tab, this allows the user not to lose the main page and get away from our main page. 
+  - The footer is very important since it helps the user reach easily other platforms where information is uploaded and share constantly. 
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
 - __Gallery__
+  - The gallery will feature available artwork from featured artists. Each piece of art will be linked and connected to each of the artists' homepages and information.
+  - Each image will also include an extensive and full image description and links to references and inspirations if available. this way, visually impaired users can navigate and select desired artwork available. 
+  - it will develop in different sections in the future with categories of style, the format of the piece, the material used, etc... for easier navigation of visually impaired users. 
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - Be Part page will allow the users to sign up for the I Read 4 You platform. It has 2 options at the moment, to sign up as an artist or to sign up as a client. In the future, each option will lead to a different set of questions to be submitted. 
+  - It will be required to give a username and an email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- -In the future, there will be separate forms to fill out depending on whether you are an artist wanting to submit your art, or a user trying to acquire it. 
+- There is the wish to create an app where the users can scan some images and get a descriptive description of the piece of art or illustration. 
+- As it will also help with the booking and communication between artists and clients, there will also be a chat available and a service for booking appointments.
 
 ## Testing 
 
