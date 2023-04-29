@@ -66,7 +66,7 @@ here there are the links to the social media that eventually the project might h
   - Be Part page will allow the users to sign up for the I Read 4 You platform. It has 2 options at the moment, to sign up as an artist or to sign up as a client. In the future, each option will lead to a different set of questions to be submitted. 
   - It will be required to give a username and an email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Be Part](/assets/images/bepartscreenshot.jpg)
 
 ### Features Left to Implement
 
