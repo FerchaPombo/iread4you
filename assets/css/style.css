@@ -182,6 +182,7 @@ footer{
 }
 /* media querry*/
 
+/*from larger to mediumscreen sizes*/
 @media screen and (max-width: 1200px) {
     #club-ethos {
         width: 65%;

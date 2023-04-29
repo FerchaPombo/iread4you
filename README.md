@@ -73,6 +73,7 @@ here there are the links to the social media that eventually the project might h
 - -In the future, there will be separate forms to fill out depending on whether you are an artist wanting to submit your art, or a user trying to acquire it. 
 - There is the wish to create an app where the users can scan some images and get a descriptive description of the piece of art or illustration. 
 - As it will also help with the booking and communication between artists and clients, there will also be a chat available and a service for booking appointments.
+- The platform will soon have its own logo. 
 
 ## Testing 
 
