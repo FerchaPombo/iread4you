@@ -31,7 +31,7 @@ here there are the links to the social media that eventually the project might h
   - When arriving at the main page, there is an image of a hand drawing an ear, it is the Super image of this project and gives an artistic idea of what the project is about.
   - It includes a small text box with an encouraging phrase and hopefully catches the user's attention.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![mainpage](/assets/images/mainpage.jpg)
 
 - __Club Ethos Section__
 
