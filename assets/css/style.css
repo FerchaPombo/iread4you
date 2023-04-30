@@ -248,6 +248,10 @@ footer{
     #photos {
         column-count: 1;
     }
+    #logo-about {
+        width: 30%;
+        max-width: 200px;
+    }
 }
 
 #title-header {
