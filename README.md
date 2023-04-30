@@ -4,7 +4,7 @@ I Read 4 You, is a platform that aims to connect tattooers, artists, and designe
 
 The long-term goal of I Read 4 You is to purposely implement the proper and complete semantic language that facilitates the "README" addons and technologies that are available, like Aria Label , so that visually impaired users have a more enjoyable and successful user experience. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](/assets/images/responsivnes.jpg)
 
 ## Existing Features 
 
