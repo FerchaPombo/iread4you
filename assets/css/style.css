@@ -106,9 +106,11 @@ h1, h2 {
     float:right;
 }
 #logo-about {
-    width: 33%;
+    width: 60%;
     margin: 0 auto;
     height: auto;
+    position: relative;
+    top: -60px;
 
 }
 .center {

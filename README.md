@@ -136,7 +136,7 @@ The live link can be found here - https://ferchapombo.github.io/i-read.4you/
 ### Media
 
 - The images used for the superhero image on the main page was taken from [image](https://acrylgiessen.com/en/how-to-draw-ears/)
-- The icon i used as logo until now was taken from [logo](https://www.flaticon.es/icono-gratis/forma-de-ojo-abierto-con-lineas-de-conexion-de-senal_37975)
+- The icon i used as logo until now was taken from [logo]https://pxhere.com/es/photo/1637325)
 - All the images in the gallery belong to me, as well as the artwork shwon. 
 
 ## Other General Project Advice
