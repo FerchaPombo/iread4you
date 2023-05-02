@@ -21,50 +21,50 @@ Here there are the links to the social media that eventually the project might h
 
 - __Navigation Bar__
 
-  - The Navigation bar in this project, includes the title of the proyect and  the links to the 3 secctions of the page. A Home, a Gallery and a Sign Up. all  elements are styled in easy-to-read font and colors. 
-  - This section is identical in each of the sections, so the user feels comfortable. It will allow the user to navigate easily back and forth through the sections wothout having to press any <back> button. 
+ The Navigation bar in this project, includes the title of the proyect and  the links to the 3 secctions of the page. A Home, a Gallery and a Sign Up. all  elements are styled in easy-to-read font and colors. 
+ This section is identical in each of the sections, so the user feels comfortable. It will allow the user to navigate easily back and forth through the sections wothout having to press any <back> button. 
 
 ![headerimage](/assets/images/screenshotheader%20.jpg) 
 
 - __Main page  and first impression__
 
-  - When arriving at the main page, there is an image of a hand drawing an ear, it is the Super image of this project and gives an artistic idea of what the project is about.
-  - It includes a small text box with an encouraging phrase and hopefully catches the user's attention.
+When arriving at the main page, there is an image of a hand drawing an ear, it is the Super image of this project and gives an artistic idea of what the project is about.
+It includes a small text box with an encouraging phrase and hopefully catches the user's attention.
 
 ![mainpage](/assets/images/mainpage.jpg)
 
 - __Club Ethos Section__
 
-  - The goal of the Club Ethos section aims to emphasize the reason the project exists. it makes clear the benefits as artists, as well as a client on why you would benefit from using the platform. 
-  - This should encourage and convince artists as well as users of the benefits of using the platform. as well as inspire them to create and want to acquire art. 
+  The goal of the Club Ethos section aims to emphasize the reason the project exists. it makes clear the benefits as artists, as well as a client on why you would benefit from using the platform. 
+  This should encourage and convince artists as well as users of the benefits of using the platform. as well as inspire them to create and want to acquire art. 
 
 ![Club Ethos](/assets/images/clubethos.jpg)
 
 - __About and Why__
 
-  -In this section, there is a little bit more justification on why the project is important, it also aims to explain roughly how it will work, what technologies it will use, and how they will be implemented.
+  In this section, there is a little bit more justification on why the project is important, it also aims to explain roughly how it will work, what technologies it will use, and how they will be implemented.
 
   ![aboutandwhy](/assets/images/aboutandwhy.jpg)
 
  __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for I Read 4 You. These links are carefully organized and will open to a new tab, this allows the user not to lose the main page and get away from our main page. 
-  - The footer is very important since it helps the user reach easily other platforms where information is uploaded and share constantly. 
+ The footer section includes links to the relevant social media sites for I Read 4 You. These links are carefully organized and will open to a new tab, this allows the user not to lose the main page and get away from our main page. 
+ The footer is very important since it helps the user reach easily other platforms where information is uploaded and share constantly. 
 
 ![Footer](/assets/images/footer.jpg)
 
 - __Gallery__
-  - The gallery will feature available artwork from featured artists. Each piece of art will be linked and connected to each of the artists' homepages and information.
-  - Each image will also include an extensive and full image description and links to references and inspirations if available. this way, visually impaired users can navigate and select desired artwork available. 
-  - it will develop in different sections in the future with categories of style, the format of the piece, the material used, etc... for easier navigation of visually impaired users. 
+  The gallery will feature available artwork from featured artists. Each piece of art will be linked and connected to each of the artists' homepages and information.
+  Each image will also include an extensive and full image description and links to references and inspirations if available. This way, visually impaired users can navigate and select desired artwork available. 
+  It will develop in different sections in the future with categories of style, the format of the piece, the material used, etc... for easier navigation of visually impaired users. 
 
 
 ![Gallery](/assets/images/galleryscreenshot.jpg)
 
 - __The Sign Up Page__
 
-  - Be Part page will allow the users to sign up for the I Read 4 You platform. It has 2 options at the moment, to sign up as an artist or to sign up as a client. In the future, each option will lead to a different set of questions to be submitted. 
-  - It will be required to give a username and an email address. 
+  Be Part page will allow the users to sign up for the I Read 4 You platform. It has 2 options at the moment, to sign up as an artist or to sign up as a client. In the future, each option will lead to a different set of questions to be submitted. 
+  It will be required to give a username and an email address. 
 
 ![Be Part](/assets/images/newformhtml.jpg)
 
@@ -84,6 +84,7 @@ Testing was also conducted with Dev tools. The headers, texts, and features adap
 ![mockup](/assets/images/Screenshot_20230502_181605_com.android.chrome.jpg)
 ![mockup](/assets/images/Screenshot_20230502_181612_com.android.chrome.jpg)
 ![mockup](/assets/images/Screenshot_20230502_181628_com.android.chrome.jpg)
+![smallscreen](/assets/images/previewinsmallscreen.jpg)
 
 
 ### Validator Testing 
@@ -133,7 +134,7 @@ The live link can be found here - https://ferchapombo.github.io/i-read.4you/
 - Help with Responsive media was taken form [code](https://www.w3schools.com/html/html_responsive.asp)
 - Help with the structure of a form was taken from [code] (https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
 - Help with understanding hidden and non hidden control form atributes [theory](https://stackoverflow.com/questions/38569235/the-for-attribute-of-the-label-element-must-refer-to-a-non-hidden-form-control)
-
+- Help with how to have responsive images taken from [Responsive](https://www.w3schools.com/html/html_responsive.asp)
 
 
 ### Media and Documentation
