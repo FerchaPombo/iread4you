@@ -81,6 +81,9 @@ Testing was also conducted with Dev tools. The headers, texts, and features adap
 
 - After deploying and sharing the link to my project, all the links are proven to work properly, the media links send you to the right web pages. 
 
+![mockup](---add--image.--here)
+
+
 ### Validator Testing 
 
 
@@ -92,12 +95,6 @@ Testing was also conducted with Dev tools. The headers, texts, and features adap
   - No errors were found when passing the complete source code of CSS through W3C validator. 
   [CSS](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fferchapombo.github.io%2Firead4you%2Fform.html#textarea)
 
-
-
-
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
@@ -120,7 +117,7 @@ The live link can be found here - https://ferchapombo.github.io/i-read.4you/
    - I read through some information available regarding visually impaired coding and how to make better web pages for it. 
 
 
-### Content 
+### Source Code Help
 
 - Overall help with coding was taken from [Code](https://stackoverflow.com/)
 - Overall help with coding was taken from [Code](https://www.yourhtmlsource.com)
@@ -130,13 +127,19 @@ The live link can be found here - https://ferchapombo.github.io/i-read.4you/
 - Help with documenting my Readme [readme](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template)
 - Howto add images to my Read me was taken from [readme](https://www.javatpoint.com/images-in-markdown#:~:text=Images%20in%20Markdown%20can%20be,exclamatory%20symbol%20at%20the%20beginning.)
 - Help with background image was taken from [image](https://usersnap.com/blog/background-webdesign/)
-- Documentation I read about visually impaired accesibility was taken from [articles](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-students)
-- Documentation I read about visually impaired accesibility was taken from [article](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-student)
 - Help moving up my logo image vertically taken from [Code](https://stackoverflow.com/questions/8090195/how-do-i-align-in-my-image-to-move-it-vertically-upcss-html)
+- Help with Responsive media was taken form [code](https://www.w3schools.com/html/html_responsive.asp)
+- Help with the structure of a form was taken from [code] (https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+- Help with understanding hidden and non hidden control form atributes [theory](https://stackoverflow.com/questions/38569235/the-for-attribute-of-the-label-element-must-refer-to-a-non-hidden-form-control)
 
 
-### Media
+
+### Media and Documentation
 
 - The images used for the superhero image on the main page was taken from [image](https://acrylgiessen.com/en/how-to-draw-ears/)
 - The icon i used as logo until now was taken from [logo](https://pxhere.com/es/photo/1637325)
 - All the images in the gallery belong to me, as well as the artwork shown.
+- Documentation I read about visually impaired accesibility was taken from [articles](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-students)
+- Documentation I read about visually impaired accesibility was taken from [article](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-student)
+- Help with gramar and spelling mistakes from [Gramarly] (https://app.grammarly.com/)
+- Help understanding the W3C validator taken from [help](https://rocketvalidator.com/html-validation/stray-start-tag-script)
