@@ -81,7 +81,6 @@ Testing was also conducted with Dev tools. The headers, texts, and features adap
 
 - After deploying and sharing the link to my project, all the links are proven to work properly, the media links send you to the right web pages. 
 
-![mockup](/assets/images/Screenshot_20230502_181605_com.android.chrome.jpg)
 ![mockup](/assets/images/Screenshot_20230502_181612_com.android.chrome.jpg)
 ![mockup](/assets/images/Screenshot_20230502_181628_com.android.chrome.jpg)
 ![smallscreen](/assets/images/previewinsmallscreen.jpg)
