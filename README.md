@@ -66,7 +66,7 @@ here there are the links to the social media that eventually the project might h
   - Be Part page will allow the users to sign up for the I Read 4 You platform. It has 2 options at the moment, to sign up as an artist or to sign up as a client. In the future, each option will lead to a different set of questions to be submitted. 
   - It will be required to give a username and an email address. 
 
-![Be Part](/assets/images/bepartscreenshot.jpg)
+![Be Part](/assets/images/newformhtml.jpg)
 
 ### Features Left to Implement
 
@@ -95,7 +95,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 - I conducted testing on my gallery files with the WC3 validator and this were the initial results :
 
-
+- in the form.html file, 
 
 
 - HTML
