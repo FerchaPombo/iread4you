@@ -185,7 +185,9 @@ footer{
     margin-left: 25px;
     margin-right: 25px;
 }
-
+#photo img{
+    width: 100%;
+}
 /* media querry */
 
 /* from larger to mediumscreen sizes */
@@ -251,7 +253,15 @@ footer{
     }
     #photos {
         column-count: 1;
+    
     }
+/* for media query 800px and down */
+
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 1;
+    }
+}
 
 }
 
