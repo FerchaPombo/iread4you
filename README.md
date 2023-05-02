@@ -10,12 +10,12 @@ The long-term goal of I Read 4 You is to purposely implement the proper and comp
 
 ### Header 
  This conains the name of the project and a navigation bar towards the left side of the page. here there is a link to the 3 pages of the project. The Home, the Gallery, and the Signup.
- ### "club Ethos" Section
-with the logo in the middle. We can find important information for the users, divided into two columns. To the left information is important for the artist, and to the right information is valuable to the client. 
-### About Section-
-here is a little description of what the project is about and why I find it important.
+ ### "Club Ethos" Section
+With the logo in the middle. We can find important information for the users, divided into two columns. To the left information is important for the artist, and to the right information is valuable to the client. 
+### "About" Section
+Here is a little description of what the project is about and why I find it important.
 ### Footer
-here there are the links to the social media that eventually the project might have. ex. Facebook page or Instagram
+Here there are the links to the social media that eventually the project might have. ex. Facebook page or Instagram
 
 ### Existing Features
 
