@@ -38,7 +38,7 @@ It includes a small text box with an encouraging phrase and hopefully catches th
   The goal of the Club Ethos section aims to emphasize the reason the project exists. it makes clear the benefits as artists, as well as a client on why you would benefit from using the platform. 
   This should encourage and convince artists as well as users of the benefits of using the platform. as well as inspire them to create and want to acquire art. 
 
-![Club Ethos](/assets/images/clubethos.jpg)
+![Club Ethos](/assets/images/newclubethosimage.jpg)
 
 - __About and Why__
 
