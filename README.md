@@ -88,15 +88,6 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Validator Testing 
 
-- There were just 4 errors in the WC3 validator text for my index.html, after fixing them the test result came out without any of them. Unfortunately, I forgot to document these changes one by one. 
-
-
-![W3C validator](/assets/images/indexhtmlwithouterrors.jpg)
-
-- I conducted testing on my gallery files with the WC3 validator and this were the initial results :
-
-- in the form.html file, 
-
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
