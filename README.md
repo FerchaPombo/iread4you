@@ -4,7 +4,7 @@ I Read 4 You, is a platform that aims to connect tattooers, artists, and designe
 
 The long-term goal of I Read 4 You is to purposely implement the proper and complete semantic language that facilitates the "README" addons and technologies that are available, like Aria Label , so that visually impaired users have a more enjoyable and successful user experience. 
 
-![Responsice Mockup](/assets/images/responsivnes.jpg)
+![Responsice Mockup](--add image here ---)
 
 ## Existing Features 
 
@@ -76,15 +76,10 @@ here there are the links to the social media that eventually the project might h
 - The platform will soon have its own logo. 
 
 ## Testing 
+- Several tests were made on small and big screens. The site was tested in Google Chrome and was tested on iPhone screens as well as iPad Pro. 
+Testing was also conducted with Dev tools. The headers, texts, and features adapt easily to different screen sizes when opened on as many devices as I could try around me. 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your projects features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+- After deploying and sharing the link to my project, all the links are proven to work properly, the media links send you to the right web pages. 
 
 ### Validator Testing 
 
@@ -96,7 +91,6 @@ If this section grows too long, you may want to split it off into a separate fil
 - CSS
   - No errors were found when passing the complete source code of CSS through W3C validator. 
   [CSS](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fferchapombo.github.io%2Firead4you%2Fform.html#textarea)
-
 
 
 
