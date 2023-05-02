@@ -130,28 +130,11 @@ The live link can be found here - https://ferchapombo.github.io/i-read.4you/
 - Help with background image was taken from [image](https://usersnap.com/blog/background-webdesign/)
 - Documentation I read about visually impaired accesibility was taken from [articles](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-students)
 - Documentation I read about visually impaired accesibility was taken from [article](https://www.teachermagazine.com/au_en/articles/inclusive-education-a-stem-tool-for-visually-impaired-student)
-
+- Help moving up my logo image vertically taken from [Code](https://stackoverflow.com/questions/8090195/how-do-i-align-in-my-image-to-move-it-vertically-upcss-html)
 
 
 ### Media
 
 - The images used for the superhero image on the main page was taken from [image](https://acrylgiessen.com/en/how-to-draw-ears/)
-- The icon i used as logo until now was taken from [logo]https://pxhere.com/es/photo/1637325)
-- All the images in the gallery belong to me, as well as the artwork shwon. 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+- The icon i used as logo until now was taken from [logo](https://pxhere.com/es/photo/1637325)
+- All the images in the gallery belong to me, as well as the artwork shwon.

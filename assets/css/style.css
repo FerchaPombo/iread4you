@@ -45,7 +45,7 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #1B1212;
 }
-/*hero image*/
+/* hero image */
 #hero-outer {
     height: 800px;
     width: 100%;
@@ -63,7 +63,7 @@ h1, h2 {
     animation-duration: 4s;
     animation-fill-mode: forwards;
 }
-/* create animation for superimage*/
+/* create animation for superimage */
 @keyframes hero-zoom{
     from {
         transform: scale(1);
@@ -153,13 +153,13 @@ hr {
     margin: 30px 0;
     font-size: 250%;
 }
-/*about section*/
+/* about section */
 
 #about{
     font-size: xx-large;
     text-align: center;
 }
-/*footer element*/
+/* footer element */
 
 footer{
     height: 150px;
@@ -176,7 +176,7 @@ footer{
     padding: 5%;
     color:#1B1212;
 }
-/*photogallery*/
+/* photogallery */
 
 #photos {
     clear: both;
@@ -186,9 +186,9 @@ footer{
     margin-right: 25px;
 }
 
-/* media querry*/
+/* media querry */
 
-/*from larger to mediumscreen sizes*/
+/* from larger to mediumscreen sizes */
 @media screen and (max-width: 1200px) {
     #club-ethos {
         width: 65%;
@@ -217,7 +217,7 @@ footer{
     }
    
 }
- /*for medium screen sizes up to 950px*/
+ /* for medium screen sizes up to 950px */
 
  @media screen and (max-width: 950px) {
     
@@ -284,7 +284,7 @@ footer{
      text-size-adjust: 100px;
      font-size: medium;
 }
-/*headers del about */
+/* headers del about */
 
 #why {
     margin-left: 70px;
