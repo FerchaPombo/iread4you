@@ -284,6 +284,11 @@ footer{
      text-size-adjust: 100px;
      font-size: medium;
 }
+#signup {
+    color: black;
+    text-decoration: underline;
+}
+
 /* headers del about */
 
 #why {
