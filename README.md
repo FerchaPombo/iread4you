@@ -70,14 +70,14 @@ here there are the links to the social media that eventually the project might h
 
 ### Features Left to Implement
 
-- -In the future, there will be separate forms to fill out depending on whether you are an artist wanting to submit your art, or a user trying to acquire it. 
+- In the future, there will be separate forms to fill out depending on whether you are an artist wanting to submit your art, or a user trying to acquire it. 
 - There is the wish to create an app where the users can scan some images and get a descriptive description of the piece of art or illustration. 
 - As it will also help with the booking and communication between artists and clients, there will also be a chat available and a service for booking appointments.
 - The platform will soon have its own logo. 
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your projects features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
@@ -87,6 +87,16 @@ If this section grows too long, you may want to split it off into a separate fil
 
 
 ### Validator Testing 
+
+- There were just 4 errors in the WC3 validator text for my index.html, after fixing them the test result came out without any of them. Unfortunately, I forgot to document these changes one by one. 
+
+
+![W3C validator](/assets/images/indexhtmlwithouterrors.jpg)
+
+- I conducted testing on my gallery files with the WC3 validator and this were the initial results :
+
+
+
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
@@ -137,4 +147,4 @@ The live link can be found here - https://ferchapombo.github.io/i-read.4you/
 
 - The images used for the superhero image on the main page was taken from [image](https://acrylgiessen.com/en/how-to-draw-ears/)
 - The icon i used as logo until now was taken from [logo](https://pxhere.com/es/photo/1637325)
-- All the images in the gallery belong to me, as well as the artwork shwon.
+- All the images in the gallery belong to me, as well as the artwork shown.
